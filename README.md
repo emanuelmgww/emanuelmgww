@@ -3,7 +3,13 @@
 - 🌱 Estudando C# .NET
 - 📫 Contate-me no email: emanuelmgww@gmail.com
 
-![emanuelmgww's Stats](https://github-readme-stats.vercel.app/api?username=emanuelmgww&theme=dracula&show_icons=true&hide_border=true&count_private=false)
-![image](https://github.com/user-attachments/assets/3d48c49d-58da-4224-bd32-4d1b097bfd0e)
-
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=emanuelmgww&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="Emanuel's GitHub Stats">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelmgww&theme=dracula&hide_border=true" alt="Emanuel's GitHub Streak">
+    </td>
+  </tr>
+</table>
