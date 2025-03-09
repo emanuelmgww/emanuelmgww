@@ -1,4 +1,4 @@
-## Olá! Eu sou o Emanuel
+# Olá! Eu sou o Emanuel
 
 - 🌱 Estudando C# .NET
 - 📫 Contate-me no email: emanuelmgww@gmail.com
