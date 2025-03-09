@@ -3,7 +3,7 @@
 - 🌱 Estudando C# .NET
 - 📫 Contate-me no email: emanuelmgww@gmail.com
 
-<table>
+<table style="border: none;">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=emanuelmgww&theme=dark&show_icons=true&show_border=true&count_private=false" alt="Emanuel's GitHub Stats">
