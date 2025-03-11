@@ -13,10 +13,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelmgww&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="emanuelmgww's Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelmgww&theme=midnight-purple&hide_border=true" alt="emanuelmgww's Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelmgww&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="emanuelmgww's Stats">
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmgww&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="emanuelmgww's Top Languages">
-</p>
