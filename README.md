@@ -5,10 +5,10 @@
 
 <p align="left">
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" width="50" />
   </a>
   <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/.NET-631A99?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/.NET-631A99?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"  width="50" />
   </a>
 </p>
 
