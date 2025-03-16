@@ -1,7 +1,7 @@
 # Olá! Eu sou o Emanuel
 
-- 🌱 Estudando C# .NET
-- 📫 Contate-me no email: emanuelmgww@gmail.com
+-  Estudando C# .NET
+-  Contate-me no email: emanuelmgww@gmail.com
 
 <p align="left">
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -12,10 +12,9 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelmgww&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="emanuelmgww's Stats">
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelmgww&theme=dark&hide_border=true" alt="emanuelmgww's Streak">
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelmgww&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="emanuelmgww's Stats" style="flex: 1;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelmgww&theme=dark&hide_border=true" alt="emanuelmgww's Streak" style="flex: 1;">
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmgww&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="emanuelmgww's Top Languages">
