@@ -9,9 +9,10 @@
 
 <div align="center" style="margin-top: 15px;">
   <a href="https://www.instagram.com/miranda_emanuelg/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Instagram-%2300ADD8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+
 
 ### Main skills:
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117)
