@@ -13,22 +13,34 @@
   </a>
 </div>
 
+---
 
-### Main skills:
+### 🚀 Main Skills:
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117)
 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00ADD8&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+---
 
-### Other Knowledge:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0D1117)&nbsp;
+### 🛠️ Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00ADD8&labelColor=0D1117)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00ADEF&labelColor=0D1117)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=0D1117)
 
-### Studying in this moment:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-![HTTP](https://img.shields.io/badge/-HTTP%20%28Internet%29-0D1117?style=for-the-badge&logo=internet-explorer&logoColor=00ADD8&labelColor=0D1117)
+---
+
+### 📚 Other Knowledge:
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0D1117)
+
+---
+
+### 📖 Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)
+![HTTP](https://img.shields.io/badge/-HTTP%20(Internet)-0D1117?style=for-the-badge&logo=internet-explorer&logoColor=00ADD8&labelColor=0D1117)
+
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=120&section=footer"/>
