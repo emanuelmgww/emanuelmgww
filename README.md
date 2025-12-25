@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADD8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Emanuel;I'm+17+years+old;I+am+studying+computing;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center" style="box-shadow: 0 4px 12px rgba(0, 173, 216, 0.3); padding: 10px; border-radius: 10px; max-width: 900px; margin: auto;">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emanuelmgww&show_icons=true&count_private=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=808080&bg_color=0d1117" alt="emanuelmgww github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmgww&layout=compact&hide_border=true&title_color=00ADD8&text_color=808080&bg_color=0d1117" />
-</div>
+
 
 <div align="center" style="margin-top: 15px;">
   <a href="https://www.instagram.com/miranda_emanuelg/" target="_blank" style="text-decoration:none;">
